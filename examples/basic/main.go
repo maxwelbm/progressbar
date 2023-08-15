@@ -2,8 +2,6 @@ package main
 
 import (
 	"time"
-
-	"github.com/schollz/progressbar/v3"
 )
 
 func main() {

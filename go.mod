@@ -1,4 +1,6 @@
-module github.com/schollz/progressbar/v3
+module github.com/maxwelbm/progressbar/v3
+
+go 1.13
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
@@ -9,5 +11,3 @@ require (
 	github.com/stretchr/testify v1.3.0
 	golang.org/x/term v0.6.0
 )
-
-go 1.13

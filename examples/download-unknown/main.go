@@ -4,8 +4,6 @@ import (
 	"io"
 	"net/http"
 	"os"
-
-	"github.com/schollz/progressbar/v3"
 )
 
 func main() {
